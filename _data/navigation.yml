@@ -1,8 +1,4 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
-- name: Recipes
+- name: Recepten
   link: /recipes/
-- name: Contact
-  link: /contact/
